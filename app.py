@@ -567,7 +567,9 @@ def display_images(value):
 def display_images(value):
     value = f"carName_{value}"
     image_cards = []
-    for car in contentBasedFiltering.recommend_cars(value):
+    for car in contentBasedFiltering.recommend_cosine(value):
+        # car = car.replace("car_Name-", "")
+        # print(car)
         img_url = popularityImg.imgCarName.get(car)
         if img_url:
             image_cards.append(
