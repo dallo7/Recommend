@@ -81,7 +81,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Popularity-Based Recommender Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/brio.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
@@ -123,7 +123,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Content-Based Recommender Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car1.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/ritz.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
@@ -172,7 +172,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Ensemble of Popularity-Based and Content-Based Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car2.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/sx4.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
@@ -221,7 +221,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Ensemble of Popularity-Based and Content-Based Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car3.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/ciaz.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
@@ -270,7 +270,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Popularity-Based Recommender Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car4.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/swift.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
@@ -320,7 +320,7 @@ products = dbc.Row([
         dbc.Card(
             [
                 dbc.CardHeader(["Content-Based Recommender Model"], className="text-center"),
-                dbc.CardImg(src=bs4.b64_image("img/car5.jpeg"), top=True),
+                dbc.CardImg(src=bs4.b64_image("img/ertiga.jpg"), top=True),
                 dbc.CardBody(
                     [
                         html.P(
