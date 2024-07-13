@@ -2,8 +2,6 @@
 
 ## For Dash Community
 
-App hosted on render.com https://recommend-ofiw.onrender.com/ 
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.x](https://img.shields.io/badge/python-3.x-blue.svg)](https://www.python.org/)
 [![Dash](https://img.shields.io/badge/Dash-v2-orange)](https://dash.plotly.com/)
@@ -13,6 +11,8 @@ App hosted on render.com https://recommend-ofiw.onrender.com/
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)                                                                                                    
 
 This Dash application provides car recommendations based on various algorithms including popularity-based, content-based, and ensemble methods. It also includes a basic login system and integrates with an STK (Safaricom Toolkit) push service for purchasing recommended cars.
+
+App hosted on render.com https://recommend-ofiw.onrender.com/                                                             
 
 ## Table of Contents
 
