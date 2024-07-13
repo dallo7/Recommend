@@ -8,7 +8,7 @@
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-0.24-orange.svg)](https://scikit-learn.org/stable/)
 [![Made with ML](https://img.shields.io/badge/Made%20with-ML-red)](https://github.com/madewithml)
 [![Recommendation Engine](https://img.shields.io/badge/Type-Recommendation%20Engine-brightgreen)](https://en.wikipedia.org/wiki/Recommender_system)
-
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)                                                                                                    
 
 This Dash application provides car recommendations based on various algorithms including popularity-based, content-based, and ensemble methods. It also includes a basic login system and integrates with an STK (Safaricom Toolkit) push service for purchasing recommended cars.
 
