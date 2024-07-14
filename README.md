@@ -12,6 +12,10 @@
 
 This Dash application provides car recommendations based on various algorithms including popularity-based, content-based, and ensemble methods. It also includes a basic login system and integrates with an STK (Safaricom Toolkit) push service for purchasing recommended cars.
 
+
+[![Dental Diagnosis Demo Video](https://github.com/dallo7/Recommend/blob/e50c2e3624ed43fa1f42bbc2552dcdc5e175d97c/reco.gif)]()
+
+
 App hosted on render.com https://recommend-ofiw.onrender.com/  (when you click the link give it at least a minute for the service to restart) 
 
 *** Integrated Mobile money (Safaricom's STK push)                                        
