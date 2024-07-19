@@ -21,7 +21,7 @@ price_per_item5 = 195
 price_per_item6 = 400
 price_per_item7 = 500
 
-app = dash.Dash(__name__, title="Recommend cars", external_stylesheets=[dbc.themes.BOOTSTRAP],
+app = dash.Dash(__name__, title="Recommend cars", external_stylesheets=[dbc.themes.VAPOR],
                 suppress_callback_exceptions=True)
 
 server = app.server
