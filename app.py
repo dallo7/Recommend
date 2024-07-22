@@ -149,7 +149,7 @@ products = dbc.Row([
                                 options=[{'label': i, 'value': i} for i in popularityImg.car_list],
                                 value=popularityImg.car_list[0],
                                 style={'borderColor': 'green', 'marginBottom': '1px', 'marginTop': '5px',
-                                       'marginRight': '5px'}
+                                       'marginRight': '5px', 'color': 'black'}
                             ), width=4)
                         ]),
                         dbc.Row(id="recco12"),
@@ -193,12 +193,12 @@ products = dbc.Row([
                         dbc.Row([
                             dbc.Col(dbc.Button("recommended for you", color="info", id="reco13",
                                                style={'margin-top': '10px', 'margin-bottom': '10px'}, size="sm")),
-                            dbc.Col(dcc.Dropdown(
+                            dbc.Col(dcc.Dropdown(  
                                 id='my-dropdown1',
                                 options=[{'label': i, 'value': i} for i in popularityImg.car_list],
                                 value=popularityImg.car_list[1],
                                 style={'borderColor': 'green', 'marginBottom': '1px', 'marginTop': '5px',
-                                       'marginRight': '5px'}
+                                       'marginRight': '5px', 'color': 'black'}
                             ), width=4)
                         ]),
                         dbc.Row(id="recco13"),
@@ -242,12 +242,12 @@ products = dbc.Row([
                         dbc.Row([
                             dbc.Col(dbc.Button("recommended for you", color="info", id="reco14",
                                                style={'margin-top': '10px', 'margin-bottom': '10px'}, size="sm")),
-                            dbc.Col(dcc.Dropdown(
+                            dbc.Col(dcc.Dropdown(                                                                                                    
                                 id='my-dropdown2',
                                 options=[{'label': i, 'value': i} for i in popularityImg.car_list],
                                 value=popularityImg.car_list[2],
                                 style={'borderColor': 'green', 'marginBottom': '1px', 'marginTop': '5px',
-                                       'marginRight': '5px'}
+                                       'marginRight': '5px', 'color': 'black'}
                             ), width=4)
                         ]),
                         dbc.Row(id="recco14"),
@@ -297,7 +297,7 @@ products = dbc.Row([
                                 options=[{'label': i, 'value': i} for i in popularityImg.car_list],
                                 value=popularityImg.car_list[3],
                                 style={'borderColor': 'green', 'marginBottom': '1px', 'marginTop': '5px',
-                                       'marginRight': '5px'}
+                                       'marginRight': '5px', 'color': 'black'}
                             ), width=4)
                         ]),
                         dbc.Row(id="recco15"),
@@ -347,7 +347,7 @@ products = dbc.Row([
                                 options=[{'label': i, 'value': i} for i in popularityImg.car_list],
                                 value=popularityImg.car_list[4],
                                 style={'borderColor': 'green', 'marginBottom': '1px', 'marginTop': '5px',
-                                       'marginRight': '5px'}
+                                       'marginRight': '5px', 'color': 'black'}
                             ), width=4)
                         ]),
                         dbc.Row(id="recco16"),
