@@ -17,7 +17,7 @@ This Dash application provides car recommendations based on various algorithms i
 [![Dental Diagnosis Demo Video](https://github.com/dallo7/Recommend/blob/1eeec948ee6c4cde30f6362a19d5f1400f55b847/carReccomender.gif)]()
 
 
-App hosted on render.com https://recommend-ofiw.onrender.com/  (when you click the link give it at least a minute for the service to restart) 
+App hosted on render.com https://recommend-ofiw.onrender.com/  (when you click the link give it at least a minute for the service to restart.) 
 
 *** Integrated Mobile money (Safaricom's STK push)                                        
   
